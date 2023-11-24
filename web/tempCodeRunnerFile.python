@@ -1,0 +1,8 @@
+
+for i in range(3):
+    in_line = int(input())
+    print(in_line)
+    for j in range(5):
+        a[i][j] = in_line & 1
+        in_line >>= 1
+print(a)
