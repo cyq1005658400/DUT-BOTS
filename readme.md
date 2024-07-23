@@ -405,7 +405,7 @@ int main() {
 
 ## 简要架构设计：
 
-![](https://s3.bmp.ovh/imgs/2023/11/24/254871e1a286d093.png)
+![img8.png](https://s2.loli.net/2024/07/24/UQja3PEBbK5G9mo.png)
 
 ## 一些其他的功能：
 
